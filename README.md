@@ -3,4 +3,4 @@
 
 ## Overview
 
-![](img/overview.pdf)
+![](img/overview.png)
