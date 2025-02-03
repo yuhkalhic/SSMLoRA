@@ -1,0 +1,16 @@
+torch==2.4.1
+torchmetrics==1.4.2
+pytorch-lightning==2.4.0
+lightning==2.4.0
+transformers==4.39.3
+tokenizers==0.15.2
+accelerate==0.29.1
+peft==0.13.2
+datasets==3.0.0
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.2
+tqdm==4.66.5
+PyYAML==6.0.2
+fsspec==2024.6.1
+huggingface_hub==0.25.1

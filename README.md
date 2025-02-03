@@ -5,6 +5,19 @@
 
 ![](img/overview.png)
 
+## Setup
+
+```
+conda create -n ssmlora python=3.10
+pip install -r requirements.txt
+```
+
+## Train
+
+```
+python src/main.py --dataset BoolQ
+```
+
 ### Citation
 
 ```
