@@ -21,10 +21,11 @@ python src/main.py --dataset BoolQ
 ### Citation
 
 ```
-@article{yu2025ssmlora,
+@inproceedings{yu2025ssmlora,
   title={SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model},
   author={Yu, Jiayang and Zhang, Yihang and Wang, Bin and Lin, Peiqin and Liu, Yongkang and Feng, Shi},
-  journal={arXiv preprint arXiv:2502.04958},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={4493--4506},
   year={2025}
 }
 ```
